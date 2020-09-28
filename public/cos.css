@@ -1,0 +1,75 @@
+.myfo{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 18px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+.myhefo{
+    margin-top: 2rem;
+        font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 22px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+
+}
+.mylofo{
+    
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 24px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+margin-top: 5rem;
+
+}
+.myhefota{
+    
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 20px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: bold;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+align-items: flex-start;
+
+}
+.mytafo{
+    
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 2wv;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+align-items: flex-start;
+
+}
+.spacer{
+    padding: 2rem ;
+}
+.myhefota:hover{color: #2417db;}
